@@ -1,4 +1,4 @@
 # ccm-view
-Trace viewer for computational cognitive models
+### Trace viewer for computational cognitive models
 
-<mark>Placeholder!</mark>
+<h4><span style="color:orange">Placeholder!</span></h4>
